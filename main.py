@@ -12,7 +12,7 @@
 
 # git reset HASH --hard - hash bo'yicha orqaga qaytadi
 
-# git branch - qaysi vitkada ekanligini ko'rsatadi
+
 
 # git branch NAME
 
@@ -41,4 +41,11 @@
 
 # git log -p -2 - ohirgi ikkita git commit, soxraniyalrni ko'rish.
 
-# 'sdfghjkertyui'
+# git branch - qaysi vitkada ekanligini ko'rsatadi
+
+# git branch dev - bu yerda dev yangi vitka
+
+# git checkout dev - dev vitkaga o'tish
+
+# sdfghjkertyuik
+# rtvbnkmlfgvhbj

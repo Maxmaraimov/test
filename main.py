@@ -4,9 +4,9 @@
 
 
 
-# git commit -m 'save name' - gitni sohraniniya qiladi
 
-# git log -p -2 ohirgi ikkita git commit
+
+
 
 
 
@@ -34,3 +34,11 @@
 # git status - kim kuztilyapdi ko'rsatiladi
 
 # git add . - hamma file ni kuzatasan
+
+# git add main.py - faqat shu file ni kuzat degani
+
+# git commit -m 'birinchi save' - gitni sohraniniya qiladi
+
+# git log -p -2 - ohirgi ikkita git commit, soxraniyalrni ko'rish.
+
+# 'sdfghjkertyui'
